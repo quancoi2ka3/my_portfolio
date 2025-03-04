@@ -173,8 +173,8 @@ export const projects = [
     demoLink: "https://manhquanportfolio.netlify.app/",
   },
 ];
-export const datablog1 = `
-Four years ago, fresh out of high school, I faced a crossroads. Like many students, I was drawn to IT after hearing about its lucrative opportunities—despite having limited exposure to technology beyond gaming. With little intrinsic interest but lured by the promise of a high salary, I took my first steps into this field.
+export const datablog1 = [
+`Four years ago, fresh out of high school, I faced a crossroads. Like many students, I was drawn to IT after hearing about its lucrative opportunities—despite having limited exposure to technology beyond gaming. With little intrinsic interest but lured by the promise of a high salary, I took my first steps into this field.
 
 The early days were rocky. Basic concepts felt foreign, and my lack of genuine curiosity made learning a slog. My motivation waned as coursework grew increasingly disconnected from my reality. Everything changed when I stumbled into web development. Building a website sparked something unexpected: joy. Suddenly, hours vanished as I obsessively tweaked interface components, discovering creativity in code. For the first time, technology felt less like a chore and more like a craft.
 
@@ -190,7 +190,7 @@ A year later, I’d built personal projects spanning mobile apps, AI, and Big Da
 - Embrace the grind: Progress hides in daily effort.
 
 Looking back, this journey taught me resilience, the value of lifelong learning, and how passion often follows action—not the other way around. To anyone considering a career in technology: Take the plunge. The road is hard, but the rewards are well worth the effort.
-`;
+`];
 
 export const blogPosts = [
   {
