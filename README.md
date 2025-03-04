@@ -9,7 +9,7 @@ Dự án xây dựng một portfolio cá nhân tôi làm với sự hỗ trợ c
 - Thiết kế responsive  
 - Giao diện lịch sự  
 - Được hỗ trợ bởi công nghệ AI  
-- Dễ dàng tùy chỉnh, bạn có thể cập nhật dữ liệu cá nhân trong /data/mockData.ts  
+- Dễ dàng tùy chỉnh, tùy biến dữ liệu cá nhân trong src/data/mockData.ts  
 
 ## 🛠️ Công Nghệ  
 
@@ -23,7 +23,7 @@ Dự án được triển khai tự động với Netlify, đảm bảo hiệu s
 
 ## 🔗 Liên Kết  
 
-- **Live Demo**: [manhquanportfolio.netlify.app/]  
+- **Live Demo**: manhquanportfolio.netlify.app
 
 ## 📦 Cài Đặt  
 
