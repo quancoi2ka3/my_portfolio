@@ -24,7 +24,7 @@ export const aboutInfo = {
     { icon: "map", name: "Traveling" },
     { icon: "music", name: "Listening Music" },
     { icon: "coffee", name: "Coffee Brewing" },
-    { icon: "code", name: "Open Source" },
+    { icon: "code", name: "Personal Training" },
     { icon: "bike", name: "Cycling" },
     { icon: "water", name: "Swimming" }
   ],
