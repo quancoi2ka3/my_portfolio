@@ -190,7 +190,7 @@ Lesson Learned:
 
 - Seek community: Mentorship accelerates growth.
 
-- Embrace the grind:** Progress hides in daily effort.
+- Embrace the grind: Progress hides in daily effort.
 
 Looking back, this journey taught me resilience, the value of lifelong learning, and how passion often follows action—not the other way around. To anyone considering a career in technology: Take the plunge. The road is hard, but the rewards are well worth the effort.
 `;
