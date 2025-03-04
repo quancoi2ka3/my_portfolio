@@ -182,11 +182,15 @@ But challenges persisted. As I deepened my skills, I battled imposter syndrome, 
 
 A year later, I’d built personal projects spanning mobile apps, AI, and Big Data. Launching tools that real people used was electrifying—a rush that solidified my commitment to software development.
 
-**Lesson Learned:**
-- **Start small:** Mastery grows incrementally.
-- **Build relentlessly:** Projects > theory.
-- **Seek community:** Mentorship accelerates growth.
-- **Embrace the grind:** Progress hides in daily effort.
+Lesson Learned:
+
+- Start small: Mastery grows incrementally.
+
+- Build relentlessly: Projects > theory.
+
+- Seek community: Mentorship accelerates growth.
+
+- Embrace the grind:** Progress hides in daily effort.
 
 Looking back, this journey taught me resilience, the value of lifelong learning, and how passion often follows action—not the other way around. To anyone considering a career in technology: Take the plunge. The road is hard, but the rewards are well worth the effort.
 `;
