@@ -174,22 +174,21 @@ export const projects = [
   },
 ];
 const datablog1 =
-`<p>Four years ago, fresh out of high school, I faced a crossroads. Like many students, I was drawn to IT after hearing about its lucrative opportunities—despite having limited exposure to technology beyond gaming. With little intrinsic interest but lured by the promise of a high salary, I took my first steps into this field.
+`Four years ago, fresh out of high school, I faced a crossroads. Like many students, I was drawn to IT after hearing about its lucrative opportunities—despite having limited exposure to technology beyond gaming. With little intrinsic interest but lured by the promise of a high salary, I took my first steps into this field.
 
 The early days were rocky. Basic concepts felt foreign, and my lack of genuine curiosity made learning a slog. My motivation waned as coursework grew increasingly disconnected from my reality. Everything changed when I stumbled into web development. Building a website sparked something unexpected: joy. Suddenly, hours vanished as I obsessively tweaked interface components, discovering creativity in code. For the first time, technology felt less like a chore and more like a craft.
 
 But challenges persisted. As I deepened my skills, I battled imposter syndrome, comparing myself to seasoned developers who seemed light-years ahead. It took time to realize two truths: every expert was once a beginner, and the tech community thrives on collaboration, not competition. Embracing this mindset opened doors. I began asking questions, joining forums, and learning through small failures.
 
 A year later, I’d built personal projects spanning mobile apps, AI, and Big Data. Launching tools that real people used was electrifying—a rush that solidified my commitment to software development.
-</p>
-<strong>Lesson Learned:</strong>
-<ul>
-<li>Start small: Mastery grows incrementally.</li> 
-<li>Build relentlessly: Projects > theory.</li>
-<li>Seek community: Mentorship accelerates growth.</li>
-<li>Embrace the grind: Progress hides in daily effort.</li>
-</ul>
-<p>Looking back, this journey taught me resilience, the value of lifelong learning, and how passion often follows action—not the other way around. To anyone considering a career in technology: Take the plunge. The road is hard, but the rewards are well worth the effort.</p>
+
+**Lesson Learned:**
+- **Start small:** Mastery grows incrementally.
+- **Build relentlessly:** Projects > theory.
+- **Seek community:** Mentorship accelerates growth.
+- **Embrace the grind:** Progress hides in daily effort.
+
+Looking back, this journey taught me resilience, the value of lifelong learning, and how passion often follows action—not the other way around. To anyone considering a career in technology: Take the plunge. The road is hard, but the rewards are well worth the effort.
 `;
 
 export const blogPosts = [
