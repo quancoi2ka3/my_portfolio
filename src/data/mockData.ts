@@ -1,6 +1,6 @@
 // Mock data for the portfolio website
 // Replace with your actual information
-import avartarImage from "/image/avt_profile.jpg";
+import avartarImage from "../assets/images/avatar.jpg";
 export const personalInfo = {
   name: "Nguyen Manh Quan",
   title: "Software Engineer",
@@ -26,7 +26,7 @@ export const experiences = [
       "Collaborate with the team to design a back-end system for the sales website.",
       "Resolve bugs and enhance system performance.",
     ],
-    logo: "https://via.placeholder.com/150",
+    logo: "https://cdn3.olm.vn/upload/img_teacher/1207/img_teacher_2022-12-07_63901371a6279_logo.png",
   },
   {
     id: 2,
@@ -39,7 +39,7 @@ export const experiences = [
       "Design a static web application for post management using VueJS and json-browser.",
       "Debug and deploy the web service.",
     ],
-    logo: "https://via.placeholder.com/150",
+    logo: "https://fds.vn/images/logo.png",
   },
   // {
   //   id: 3,
