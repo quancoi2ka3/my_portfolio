@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Open+Sans:wght@300;400;500;600&display=swap');
+@import 'react-vertical-timeline-component/style.min.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #2D5D7C;
+  --secondary: #3A7CA5;
+  --background: #F0F0F0;
+  --accent: #FFD700;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: var(--background);
+  color: #333;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+
+.section-title {
+  @apply text-3xl md:text-4xl font-bold text-center mb-10 text-primary relative;
+}
+
+.section-title::after {
+  content: '';
+  @apply absolute bottom-0 left-1/2 transform -translate-x-1/2 w-20 h-1 bg-accent;
+}
+
+.btn {
+  @apply px-6 py-2 rounded-md transition-all duration-300 font-medium;
+}
+
+.btn-primary {
+  @apply bg-primary text-white hover:bg-secondary;
+}
+
+.btn-outline {
+  @apply border-2 border-primary text-primary hover:bg-primary hover:text-white;
+}
+
+.card {
+  @apply bg-white rounded-lg shadow-md overflow-hidden transition-all duration-300 hover:shadow-xl;
+}
+
+.timeline-content {
+  @apply bg-white rounded-lg shadow-md p-6;
+}
+
+.timeline-dot {
+  @apply bg-accent;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--primary);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--secondary);
+}
