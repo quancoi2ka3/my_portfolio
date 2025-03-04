@@ -1,6 +1,5 @@
 // Mock data for the portfolio website
 // Replace with your actual information
-import avartarImage from "../../assets/images/avatar.jpg";
 export const personalInfo = {
   name: "Nguyen Manh Quan",
   title: "Software Engineer",
@@ -11,7 +10,7 @@ export const personalInfo = {
   github: "https://github.com/quancoi2ka3",
   phone: "+84 968 031 328",
   cvLink: "/NguyenManhQuan_CV.pdf", // Add your actual CV file
-  avatarUrl: avartarImage,
+  avatarUrl: "https://imgur.com/a/G7EMWCd",
 };
 
 export const experiences = [
