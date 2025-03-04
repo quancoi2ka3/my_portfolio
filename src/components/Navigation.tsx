@@ -54,6 +54,12 @@ const Navigation: React.FC = () => {
           
           <div className="hidden md:flex space-x-8">
             <button 
+              onClick={() => scrollToSection('about')}
+              className="text-white hover:text-accent transition-colors duration-300"
+            >
+              About
+            </button>
+            <button 
               onClick={() => scrollToSection('experience')}
               className="text-white hover:text-accent transition-colors duration-300"
             >
@@ -71,6 +77,12 @@ const Navigation: React.FC = () => {
             >
               Projects
             </button>
+            <button 
+              onClick={() => scrollToSection('blog')}
+              className="text-white hover:text-accent transition-colors duration-300"
+            >
+              Blog
+            </button>
           </div>
           
           <button 
@@ -86,6 +98,12 @@ const Navigation: React.FC = () => {
         {isMenuOpen && (
           <div className="md:hidden mt-4 bg-primary/95 rounded-lg p-4 animate-fade-in">
             <div className="flex flex-col space-y-4">
+              <button 
+                onClick={() => scrollToSection('about')}
+                className="text-white hover:text-accent transition-colors duration-300 py-2"
+              >
+                About
+              </button>
               <button 
                 onClick={() => scrollToSection('experience')}
                 className="text-white hover:text-accent transition-colors duration-300 py-2"
@@ -103,6 +121,12 @@ const Navigation: React.FC = () => {
                 className="text-white hover:text-accent transition-colors duration-300 py-2"
               >
                 Projects
+              </button>
+              <button 
+                onClick={() => scrollToSection('blog')}
+                className="text-white hover:text-accent transition-colors duration-300 py-2"
+              >
+                Blog
               </button>
             </div>
           </div>
