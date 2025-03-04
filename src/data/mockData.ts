@@ -1,6 +1,6 @@
 // Mock data for the portfolio website
 // Replace with your actual information
-import avartarImage from "../assets/images/avatar.jpg";
+import avartarImage from "../../assets/images/avatar.jpg";
 export const personalInfo = {
   name: "Nguyen Manh Quan",
   title: "Software Engineer",
