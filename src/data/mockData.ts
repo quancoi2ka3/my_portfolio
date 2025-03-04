@@ -1,6 +1,6 @@
 // Mock data for the portfolio website
 // Replace with your actual information
-import avartarImage from "../image/avt_profile.jpg";
+import avartarImage from "/image/avt_profile.jpg";
 export const personalInfo = {
   name: "Nguyen Manh Quan",
   title: "Software Engineer",
@@ -10,98 +10,96 @@ export const personalInfo = {
   linkedin: "https://www.linkedin.com/in/manh-quan-96a113269/",
   github: "https://github.com/quancoi2ka3",
   phone: "+84 968 031 328",
-  cvLink: "/NguyenManhQuan_CV_dotNET.pdf", // Add your actual CV file
+  cvLink: "/NguyenManhQuan_CV.pdf", // Add your actual CV file
   avatarUrl: avartarImage,
 };
 
 export const experiences = [
   {
     id: 1,
-    company: "OLM Education",
-    position: "Intern Back-end Developer",
-    startDate: "Jan 2022",
-    endDate: "Present",
+    company: "Education Science and Technology Joint Stock Company",
+    position: "Intern .NET",
+    startDate: "Dec 2024",
+    endDate: "Jan 2025",
     description: [
-      "Led the development of a responsive web application using React and TypeScript",
-      "Implemented state management using Redux and optimized performance",
-      "Collaborated with UX/UI designers to implement pixel-perfect designs",
-      "Mentored junior developers and conducted code reviews"
+      "Contribute to developing the company's software products. ",
+      "Collaborate with the team to design a back-end system for the sales website.",
+      "Resolve bugs and enhance system performance.",
     ],
     logo: "https://via.placeholder.com/150",
   },
   {
     id: 2,
-    company: "Company Name 2",
-    position: "Front-end Developer",
-    startDate: "Mar 2020",
-    endDate: "Dec 2021",
+    company: "FDS Joint Stock Company",
+    position: "Intern VueJS",
+    startDate: "Feb 2025",
+    endDate: "Mar 2025",
     description: [
-      "Developed and maintained multiple client websites using HTML, CSS, and JavaScript",
-      "Implemented responsive designs and ensured cross-browser compatibility",
-      "Worked with RESTful APIs to fetch and display data",
-      "Participated in agile development processes"
+      "Contribute to developing the company's software products.",
+      "Design a static web application for post management using VueJS and json-browser.",
+      "Debug and deploy the web service.",
     ],
     logo: "https://via.placeholder.com/150",
   },
-  {
-    id: 3,
-    company: "Company Name 3",
-    position: "Web Developer Intern",
-    startDate: "Jun 2019",
-    endDate: "Feb 2020",
-    description: [
-      "Assisted in the development of company website using HTML, CSS, and JavaScript",
-      "Created responsive email templates",
-      "Learned and applied best practices for web development",
-      "Participated in team meetings and contributed ideas"
-    ],
-    logo: "https://via.placeholder.com/150",
-  },
+  // {
+  //   id: 3,
+  //   company: "Company Name 3",
+  //   position: "Web Developer Intern",
+  //   startDate: "Jun 2019",
+  //   endDate: "Feb 2020",
+  //   description: [
+  //     "Assisted in the development of company website using HTML, CSS, and JavaScript",
+  //     "Created responsive email templates",
+  //     "Learned and applied best practices for web development",
+  //     "Participated in team meetings and contributed ideas"
+  //   ],
+  //   logo: "https://via.placeholder.com/150",
+  // },
 ];
 
 export const awards = [
-  {
-    id: 1,
-    title: "Best Web Application",
-    year: "2023",
-    organization: "Tech Conference Name",
-    description: "Awarded for developing an innovative web application that solved a significant industry problem."
-  },
-  {
-    id: 2,
-    title: "Hackathon Winner",
-    year: "2022",
-    organization: "Hackathon Name",
-    description: "First place in a 48-hour hackathon for creating a web application that addressed accessibility challenges."
-  },
-  {
-    id: 3,
-    title: "Outstanding Graduate",
-    year: "2019",
-    organization: "University Name",
-    description: "Recognized for academic excellence and contributions to the computer science department."
-  },
-  {
-    id: 4,
-    title: "Open Source Contributor",
-    year: "2021",
-    organization: "GitHub",
-    description: "Recognized for significant contributions to open-source projects in the JavaScript ecosystem."
-  },
-  {
-    id: 5,
-    title: "Web Design Competition",
-    year: "2020",
-    organization: "Design Association",
-    description: "Second place in a national web design competition for creating an innovative user interface."
-  },
-  {
-    id: 6,
-    title: "Community Leadership",
-    year: "2022",
-    organization: "Tech Community",
-    description: "Recognized for organizing and leading workshops to teach coding to underrepresented groups."
-  },
+  // {
+  //   id: 1,
+  //   title: "Best Web Application",
+  //   year: "2023",
+  //   organization: "Tech Conference Name",
+  //   description: "Awarded for developing an innovative web application that solved a significant industry problem."
+  // },
+  // {
+  //   id: 2,
+  //   title: "Hackathon Winner",
+  //   year: "2022",
+  //   organization: "Hackathon Name",
+  //   description: "First place in a 48-hour hackathon for creating a web application that addressed accessibility challenges."
+  // },
+  // {
+  //   id: 3,
+  //   title: "Outstanding Graduate",
+  //   year: "2019",
+  //   organization: "University Name",
+  //   description: "Recognized for academic excellence and contributions to the computer science department."
+  // },
+  // {
+  //   id: 4,
+  //   title: "Open Source Contributor",
+  //   year: "2021",
+  //   organization: "GitHub",
+  //   description: "Recognized for significant contributions to open-source projects in the JavaScript ecosystem."
+  // },
+  // {
+  //   id: 5,
+  //   title: "Web Design Competition",
+  //   year: "2020",
+  //   organization: "Design Association",
+  //   description: "Second place in a national web design competition for creating an innovative user interface."
+  // },
+  // {
+  //   id: 6,
+  //   title: "Community Leadership",
+  //   year: "2022",
+  //   organization: "Tech Community",
+  //   description: "Recognized for organizing and leading workshops to teach coding to underrepresented groups."
+  // },
 ];
 
 export const projects = [
