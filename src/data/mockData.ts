@@ -173,12 +173,31 @@ export const projects = [
     demoLink: "https://manhquanportfolio.netlify.app/",
   },
 ];
+const datablog1 = `
+Four years ago, fresh out of high school, I faced a crossroads. Like many students, I was drawn to IT after hearing about its lucrative opportunities—despite having limited exposure to technology beyond gaming. With little intrinsic interest but lured by the promise of a high salary, I took my first steps into this field.
+
+The early days were rocky. Basic concepts felt foreign, and my lack of genuine curiosity made learning a slog. My motivation waned as coursework grew increasingly disconnected from my reality. Everything changed when I stumbled into web development. Building a website sparked something unexpected: joy. Suddenly, hours vanished as I obsessively tweaked interface components, discovering creativity in code. For the first time, technology felt less like a chore and more like a craft.
+
+But challenges persisted. As I deepened my skills, I battled imposter syndrome, comparing myself to seasoned developers who seemed light-years ahead. It took time to realize two truths: every expert was once a beginner, and the tech community thrives on collaboration, not competition. Embracing this mindset opened doors. I began asking questions, joining forums, and learning through small failures.
+
+A year later, I’d built personal projects spanning mobile apps, AI, and Big Data. Launching tools that real people used was electrifying—a rush that solidified my commitment to software development.
+
+**Lesson Learned:**
+
+- Start small: Mastery grows incrementally.
+- Build relentlessly: Projects > theory.
+- Seek community: Mentorship accelerates growth.
+- Embrace the grind: Progress hides in daily effort.
+
+Looking back, this journey taught me resilience, the value of lifelong learning, and how passion often follows action—not the other way around. To anyone considering a career in technology: Take the plunge. The road is hard, but the rewards are well worth the effort.
+`;
+
 export const blogPosts = [
   {
     id: 1,
     title: "My Journey into Tech: From Uncertainty to Passion",
     excerpt: "How I got started in software development and the lessons I learned along the way.",
-    content: "Four years ago, fresh out of high school, I faced a crossroads. Like many students, I was drawn to IT after hearing about its lucrative opportunities—despite having limited exposure to technology beyond gaming. With little intrinsic interest but lured by the promise of a high salary, I took my first steps into this field.\n\nThe early days were rocky. Basic concepts felt foreign, and my lack of genuine curiosity made learning a slog. My motivation waned as coursework grew increasingly disconnected from my reality. Everything changed when I stumbled into web development. Building a website sparked something unexpected: joy. Suddenly, hours vanished as I obsessively tweaked interface components, discovering creativity in code. For the first time, technology felt less like a chore and more like a craft.\n\nBut challenges persisted. As I deepened my skills, I battled imposter syndrome, comparing myself to seasoned developers who seemed light-years ahead. It took time to realize two truths: every expert was once a beginner, and the tech community thrives on collaboration, not competition. Embracing this mindset opened doors. I began asking questions, joining forums, and learning through small failures.\n\nA year later, I’d built personal projects spanning mobile apps, AI, and Big Data. Launching tools that real people used was electrifying—a rush that solidified my commitment to software development.\n\n\bLessson Learned : \nStart small: Mastery grows incrementally.\nBuild relentlessly: Projects > theory.\nSeek community: Mentorship accelerates growth.\nEmbrace the grind: Progress hides in daily effort.\n\nLooking back, this journey taught me resilience, the value of lifelong learning, and how passion often follows action—not the other way around. To anyone considering tech: Dive in. The path is demanding, Looking back, this journey has taught me about resilience, the value of lifelong learning, and how passion often leads to action—not the other way around. To anyone considering a career in technology: Take the plunge. The road is hard, but the rewards are well worth the effort.",
+    data: datablog1,
     date: "April 15, 2023",
     author: "Your Name",
     image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1172&q=80",
