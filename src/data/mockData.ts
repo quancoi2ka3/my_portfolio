@@ -2,15 +2,15 @@
 // Replace with your actual information
 
 export const personalInfo = {
-  name: "Your Name",
-  title: "Front-end Developer",
-  education: "University Name",
-  location: "City, Country",
-  email: "your.email@example.com",
-  linkedin: "https://linkedin.com/in/yourprofile",
-  github: "https://github.com/yourusername",
-  phone: "+1234567890",
-  cvLink: "/your-cv.pdf", // Add your actual CV file
+  name: "Nguyen Manh Quan",
+  title: "Software Engineer",
+  education: "Thuy Loi University",
+  location: "Ha Noi, Viet Nam",
+  email: "nguyenmanhquan17072003@gmail.com",
+  linkedin: "https://www.linkedin.com/in/manh-quan-96a113269/",
+  github: "https://github.com/quancoi2ka3",
+  phone: "+84 968 031 328",
+  cvLink: "/NguyenManhQuan_CV_dotNET.pdf", // Add your actual CV file
   avatarUrl: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
 };
 
