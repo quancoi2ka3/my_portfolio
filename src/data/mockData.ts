@@ -1,6 +1,6 @@
 // Mock data for the portfolio website
 // Replace with your actual information
-
+import avartarImage from "../image/avt_profile.jpg";
 export const personalInfo = {
   name: "Nguyen Manh Quan",
   title: "Software Engineer",
@@ -11,14 +11,14 @@ export const personalInfo = {
   github: "https://github.com/quancoi2ka3",
   phone: "+84 968 031 328",
   cvLink: "/NguyenManhQuan_CV_dotNET.pdf", // Add your actual CV file
-  avatarUrl: "../image/avt_profile.jpg",
+  avatarUrl: avartarImage,
 };
 
 export const experiences = [
   {
     id: 1,
     company: "OLM Education",
-    position: "Senior Front-end Developer",
+    position: "Intern Back-end Developer",
     startDate: "Jan 2022",
     endDate: "Present",
     description: [
