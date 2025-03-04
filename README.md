@@ -2,28 +2,28 @@
 
 ## 📝 Overview
 
-Một dự án portfolio cá nhân tôi làm với sự hỗ trợ của AI và triển khai trên Vercel chỉ cần vài phút thực hiện
+Dự án xây dựng một portfolio cá nhân tôi làm với sự hỗ trợ của AI và triển khai với Netlify chỉ cần vài phút thực hiện
 
 ## 🌟 Tính Năng  
 
 - Thiết kế responsive  
 - Giao diện lịch sự  
 - Được hỗ trợ bởi công nghệ AI  
-- Dễ dàng tùy chỉnh  
+- Dễ dàng tùy chỉnh, bạn có thể cập nhật dữ liệu cá nhân trong /data/mockData.ts  
 
 ## 🛠️ Công Nghệ  
 
 - React, Tailwind CSS
-- Deployment: Vercel  
+- Deployment: Netlify CLI  
 - Hỗ trợ AI: Claude 3.5 Sonnet , BoltAI
-
-## 🔗 Liên Kết  
-
-- **Live Demo**: [URL Vercel]  
 
 ## 🚀 Deployment  
 
-Dự án được triển khai tự động trên Vercel, đảm bảo hiệu suất và khả năng truy cập tối ưu.  
+Dự án được triển khai tự động với Netlify, đảm bảo hiệu suất và khả năng truy cập tối ưu.
+
+## 🔗 Liên Kết  
+
+- **Live Demo**: [https://67c687050f98dc81085c70ce--manhquanportfolio.netlify.app/]  
 
 ## 📦 Cài Đặt  
 
