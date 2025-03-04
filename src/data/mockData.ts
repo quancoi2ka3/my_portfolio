@@ -14,22 +14,22 @@ export const personalInfo = {
 };
 export const aboutInfo = {
   bio: [
-    "Hello! I'm a passionate front-end developer with a love for creating beautiful, functional, and user-friendly websites. My journey in web development began during my university years when I built my first website for a student organization.",
+    "Hello! I'm a passionate software developer with a love for creating beautiful, functional, and user-friendly websites. My journey in web development began during my university years when I built my first website in the process of learning HTML, CSS.",
     "Since then, I've been constantly learning and improving my skills, staying up-to-date with the latest technologies and best practices in the industry. I believe that great design combined with clean, efficient code creates the best user experiences.",
-    "When I'm not coding, you can find me exploring new hiking trails, experimenting with new recipes in the kitchen, or getting lost in a good book. I'm always open to new challenges and opportunities to grow both personally and professionally."
+    "When I'm not coding, you can find me exploring new hiking trails, swimming in the river, or getting lost in a good book. I'm always open to new challenges and opportunities to grow both personally and professionally."
   ],
   interests: [
     { icon: "camera", name: "Photography" },
     { icon: "book", name: "Reading" },
     { icon: "map", name: "Traveling" },
-    { icon: "music", name: "Playing Guitar" },
+    { icon: "music", name: "Listening Music" },
     { icon: "coffee", name: "Coffee Brewing" },
     { icon: "code", name: "Open Source" },
-    { icon: "mountains", name: "Hiking" },
-    { icon: "chef-hat", name: "Cooking" }
+    { icon: "bike", name: "Cycling" },
+    { icon: "water", name: "Swimming" }
   ],
-  quote: "Code is like humor. When you have to explain it, it's bad.",
-  imageUrl: "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80"
+  quote: "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+  imageUrl: "https://cdn.artphotolimited.com/images/60913d60bd40b85323893a87/300x300/albert-schweitzer-dans-les-annees-1950.jpg"
 };
 export const experiences = [
   {
