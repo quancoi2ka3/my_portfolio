@@ -6,11 +6,12 @@
 @tailwind utilities;
 
 :root {
-  --primary: #2D5D7C;
-  --secondary: #3A7CA5;
-  --background: #F0F0F0;
-  --accent: #FFD700;
+  --primary: #2D5D7C; /* Màu xanh lam đậm */
+  --secondary: #FFA07A; /* Màu cam nhạt */
+  --background: #F0F0F0; /* Màu xám nhạt */
+  --accent: #FFD700; /* Màu vàng */
 }
+
 
 body {
   font-family: 'Open Sans', sans-serif;
