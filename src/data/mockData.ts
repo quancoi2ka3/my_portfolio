@@ -10,7 +10,7 @@ export const personalInfo = {
   github: "https://github.com/quancoi2ka3",
   phone: "+84 968 031 328",
   cvLink: "/NguyenManhQuan_CV.pdf", // Add your actual CV file
-  avatarUrl: "../images/avt_profile.jpg",
+  avatarUrl: "https://uc76f4d08ce4f0deb7714fa43de4.dl.dropboxusercontent.com/cd/0/inline/ClOHOkEHUFKm-OFoY1Lc7qTKvz5zo-mmVtMV6XoJEpGIbyhp2qWImxgwJ9hjVh13dAcCVGtpqbOXDnNKHVToQfqsfzmKb0TsXhMLdmPFU8MZPgmgMnMkoUVcmQQsoJCSuwk4IgG-LmK2VueytdXxbjpW/file#",
 };
 
 export const experiences = [
