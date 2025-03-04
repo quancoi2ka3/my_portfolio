@@ -194,7 +194,112 @@ Lesson Learned:
 
 Looking back, this journey taught me resilience, the value of lifelong learning, and how passion often follows action—not the other way around. To anyone considering a career in technology: Take the plunge. The road is hard, but the rewards are well worth the effort.
 `;
+const datablog2 =
+`Are you looking for work-life balance?
 
+1. Why is work-life balance important?
+Balance doesn't mean splitting work and personal life 50/50, but finding a way for both to coexist harmoniously. According to research from Forbes, people who know how to set clear boundaries have a 34% higher life satisfaction rate. This helps you:
+
+- Reduce stress, avoid burnout
+
+- Increase productivity by taking reasonable breaks
+
+Maintain mental and physical health
+
+2. Common "traps" on the journey
+
+- Time confusion: Checking email at 10pm, online meetings during lunchtime...
+
+- Obsession with "having to be perfect": Refusing to take time off for fear of affecting work.
+
+- Comparing yourself: "My colleagues can work 10 hours/day, why can't I?"
+
+3. "Golden" toolkit for beginners
+🌈 5 simple steps to practice right away
+Step 1: Draw a "red line":
+
+- Set a fixed working time frame (eg: 8am-6pm).
+
+- Use a social media blocking app (Freedom, FocusMe) to avoid distractions.
+
+Step 2: Schedule for when you're not working
+
+- Take 15 minutes in between to walk, listen to music
+
+- Apply the Pomodoro technique: 25 minutes of focus - 5 minutes of break.
+
+Step 3: "Delegate" work properly
+
+- Divide housework among family members reasonably
+
+- Take advantage of food/grocery delivery services to save time.
+
+Step 4: Take advantage of flexibility from the company
+
+- Suggest working remotely 2-3 days/week4.
+
+- Refer to the flexible leave regime (compressed workweek).
+
+Step 5: Invest in a hobby
+
+- Just 20 minutes a day of cooking, yoga, or playing with your pet — this will help you "refresh" your spirit effectively.
+
+4. This journey has no destination
+As CEO Stacy Tornio shares, "Balance is not about the destination, it's about how you adjust each day." Here are 3 questions to help you check in with yourself:
+
+- Did you spend time on a hobby this week?
+
+- Do you feel guilty when you take a break?
+
+- What makes you happy outside of work?
+
+Start small:
+
+Turn off your phone an hour before bed
+
+Wake up early to exercise, plan your day
+
+Write down 3 things you're grateful for every morning
+
+"Balance doesn't mean everything has to be perfect — it's about finding joy even in the imperfections."
+`;
+const datablog6 = `After years glued to my laptop, immersed in code, I’ve learned this truth: Health is the most critical "code" we need to debug daily. Without intentional care, we risk facing issues like hair loss, back pain, or hemorrhoids—paired with mental struggles like anxiety or burnout. Many young professionals sacrifice well-being for career gains, only to realize later that retirement becomes a desperate "patch" for years of self-neglect.
+
+Why Start Today?
+I once believed, "Work hard now, relax later." But witnessing peers hospitalized for strokes or neurological disorders shifted my perspective. Health isn’t a sprint—it’s a marathon. Starting at 15 with YouTube workout videos, I’ve distilled three "golden keys" to improve body and mind:
+
+3 Strategies to Reprogram Your Life
+
+1. Flexible Planning – Ditch the Deadlines
+- Think LEGO: Break big goals into small bricks. Example: Instead of forcing a 5km run, start with 15-minute walks.
+
+- Pressure to Joy: I once pushed myself to collapse chasing goals. Now I live by: "When you savor each step, the finish line chases you."
+
+2. Rest – Your Body’s "Ctrl + S"
+
+- Sleep = System Reboot: Prioritize 7-8 hours nightly—it’s your brain’s "software update."
+
+- Eat Like an Artist: Follow the 80/20 rule: 80% nourishing meals, 20% treats. Remember: "Your stomach isn’t a trash can—don’t feed it regrets."
+
+3. Nurture Your Spirit – Install "Happiness 2.0"
+
+- Social Media Detox: Swap 30 minutes of TikTok for reading. You’ll feel lighter, like your mind got a "RAM upgrade."
+
+- Passion Projects: Spend 15 minutes daily on hobbies—painting, guitar, cloud-watching. These moments are "antivirus software" for your soul.
+
+---A Heartfelt Reminder---
+
+-This journey is like growing an oak tree—fruits take time. You’ll stumble, but remember: "Every setback is a step forward in disguise." I’ve failed, burned out, and restarted. Those falls taught me to love my imperfect self.
+
+-->Start Small Today:
+
+- Drink an extra glass of water
+
+- Take 3 deep breaths before work
+
+- Smile at your reflection
+
+Health isn’t a destination—it’s how you travel through life :D`;
 export const blogPosts = [
   {
     id: 1,
@@ -202,7 +307,7 @@ export const blogPosts = [
     excerpt: "How I got started in software development and the lessons I learned along the way.",
     content: datablog1,
     date: "April 15, 2023",
-    author: "Your Name",
+    author: "Nguyen Manh Quan",
     image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1172&q=80",
     tags: ["Career Change", "Software Development", "Learning Journey"]
   },
@@ -210,29 +315,29 @@ export const blogPosts = [
     id: 2,
     title: "Finding Balance: Work and Personal Life in Tech",
     excerpt: "Strategies I've developed to maintain a healthy work-life balance in the fast-paced tech industry.",
-    content: "Working in the tech industry can be both exhilarating and exhausting. The constant innovation, tight deadlines, and pressure to stay updated with the latest technologies can easily lead to burnout if you're not careful. Over the years, I've developed strategies to maintain a healthy balance between my professional and personal life.\n\nWhen I first started in tech, I was eager to prove myself. I would work long hours, take on additional projects, and spend weekends learning new skills. While this helped me advance quickly, it came at a cost. My personal relationships suffered, my health declined, and ironically, my creativity and problem-solving abilities diminished due to mental fatigue.\n\nThe turning point came after a particularly intense project that left me completely drained. I realized that this pace wasn't sustainable and that I needed to make changes. Here are some strategies that have helped me find balance:\n\nSet clear boundaries: I now have specific work hours and try not to check emails or Slack messages outside of those hours. This wasn't easy at first, especially with the expectation of constant availability in many tech companies, but it's essential for mental health.\n\nPrioritize physical health: Regular exercise, proper nutrition, and adequate sleep have become non-negotiable parts of my routine. I've found that physical well-being directly impacts my cognitive performance and emotional resilience.\n\nSchedule downtime: I intentionally block time in my calendar for activities that recharge me – whether it's hiking, reading, or simply doing nothing. Treating this time with the same importance as work meetings ensures I don't skip it.\n\nPractice mindfulness: Daily meditation, even if just for 10 minutes, helps me stay present and reduces anxiety about work when I'm off the clock.\n\nCultivate non-tech interests: Having hobbies completely unrelated to technology provides a mental break and keeps me from defining my entire identity through my work.\n\nLearn to say no: This was perhaps the hardest lesson. Declining opportunities or additional responsibilities isn't a sign of weakness or lack of commitment – it's a recognition of your limits and a respect for your well-being.\n\nThe tech industry often glorifies hustle culture and extreme work ethics, but I've found that my best work happens when I'm rested, balanced, and fulfilled in all areas of life. Companies are increasingly recognizing this too, with more emphasis on employee wellness and sustainable work practices.\n\nFinding balance is an ongoing process that requires constant adjustment as career demands and personal circumstances change. But the effort is worthwhile – not just for personal happiness, but also for long-term career sustainability in an industry known for burnout.",
+    content: datablog2,
     date: "June 22, 2023",
-    author: "Your Name",
+    author: "Nguyen Manh Quan",
     image: "https://images.unsplash.com/photo-1506126613408-eca07ce68773?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
     tags: ["Work-Life Balance", "Mental Health", "Tech Industry"]
   },
-  {
-    id: 3,
-    title: "The Joy of Mentoring Junior Developers",
-    excerpt: "Reflections on my experience mentoring newcomers to the field and how it's enriched my own professional journey.",
-    content: "Three years ago, I was assigned my first mentee – a junior developer fresh out of a coding bootcamp, eager but overwhelmed. I remember feeling somewhat unprepared for the responsibility. After all, I was still learning so much myself. What could I possibly teach someone else?\n\nThat initial mentoring relationship turned out to be one of the most rewarding experiences of my career, and since then, I've had the privilege of mentoring several other junior developers. What I've discovered is that mentoring isn't just beneficial for the mentee – it has profoundly impacted my own growth as a developer and as a person.\n\nOne of the most immediate benefits of mentoring is how it strengthens your own technical knowledge. When you need to explain concepts clearly to someone else, you quickly identify gaps in your understanding. I've lost count of how many times I thought I knew something well until I tried to teach it. The questions from mentees often push me to deepen my knowledge and explore aspects of technologies I might have overlooked.\n\nBeyond technical skills, mentoring has significantly improved my communication abilities. Learning to adjust explanations based on someone's learning style, finding analogies that make complex concepts accessible, and providing feedback in a constructive way – these are valuable skills in any professional context, not just in a mentoring relationship.\n\nPerhaps most surprisingly, mentoring has renewed my enthusiasm for the field. Seeing web development through the eyes of someone just discovering it reminds me of why I fell in love with this work in the first place. Their excitement when they solve a problem or create something new is contagious and helps counter the cynicism that can develop after years in the industry.\n\nOf course, mentoring comes with challenges. Finding the balance between providing guidance and allowing space for independent learning isn't always easy. There's also the time commitment, which can be substantial in a busy work environment. But the investment pays dividends – not only in the mentee's growth but in building a more collaborative and supportive team culture.\n\nFor those considering becoming a mentor, you don't need to be a senior developer with years of experience. Even if you're relatively new to the field, you have valuable insights to offer someone who's just a step or two behind you on the journey. The key qualities are patience, empathy, and a genuine desire to help others succeed.\n\nAs for my first mentee? She's now a confident mid-level developer who recently started mentoring someone herself. Seeing that ripple effect – knowledge and support passing from person to person – is perhaps the most satisfying aspect of the whole experience.",
-    date: "September 8, 2023",
-    author: "Your Name",
-    image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
-    tags: ["Mentoring", "Professional Growth", "Teaching"]
-  },
+  // {
+  //   // id: 3,
+  //   // title: "The Joy of Mentoring Junior Developers",
+  //   // excerpt: "Reflections on my experience mentoring newcomers to the field and how it's enriched my own professional journey.",
+  //   // content: "Three years ago, I was assigned my first mentee – a junior developer fresh out of a coding bootcamp, eager but overwhelmed. I remember feeling somewhat unprepared for the responsibility. After all, I was still learning so much myself. What could I possibly teach someone else?\n\nThat initial mentoring relationship turned out to be one of the most rewarding experiences of my career, and since then, I've had the privilege of mentoring several other junior developers. What I've discovered is that mentoring isn't just beneficial for the mentee – it has profoundly impacted my own growth as a developer and as a person.\n\nOne of the most immediate benefits of mentoring is how it strengthens your own technical knowledge. When you need to explain concepts clearly to someone else, you quickly identify gaps in your understanding. I've lost count of how many times I thought I knew something well until I tried to teach it. The questions from mentees often push me to deepen my knowledge and explore aspects of technologies I might have overlooked.\n\nBeyond technical skills, mentoring has significantly improved my communication abilities. Learning to adjust explanations based on someone's learning style, finding analogies that make complex concepts accessible, and providing feedback in a constructive way – these are valuable skills in any professional context, not just in a mentoring relationship.\n\nPerhaps most surprisingly, mentoring has renewed my enthusiasm for the field. Seeing web development through the eyes of someone just discovering it reminds me of why I fell in love with this work in the first place. Their excitement when they solve a problem or create something new is contagious and helps counter the cynicism that can develop after years in the industry.\n\nOf course, mentoring comes with challenges. Finding the balance between providing guidance and allowing space for independent learning isn't always easy. There's also the time commitment, which can be substantial in a busy work environment. But the investment pays dividends – not only in the mentee's growth but in building a more collaborative and supportive team culture.\n\nFor those considering becoming a mentor, you don't need to be a senior developer with years of experience. Even if you're relatively new to the field, you have valuable insights to offer someone who's just a step or two behind you on the journey. The key qualities are patience, empathy, and a genuine desire to help others succeed.\n\nAs for my first mentee? She's now a confident mid-level developer who recently started mentoring someone herself. Seeing that ripple effect – knowledge and support passing from person to person – is perhaps the most satisfying aspect of the whole experience.",
+  //   // date: "September 8, 2023",
+  //   // author: "Your Name",
+  //   // image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+  //   // tags: ["Mentoring", "Professional Growth", "Teaching"]
+  // },
   {
     id: 4,
     title: "How Travel Influences My Creative Process",
     excerpt: "Exploring the connection between my travels around the world and my approach to design and problem-solving.",
     content: "As both a developer and an avid traveler, I've noticed a fascinating connection between my journeys around the world and my creative process in building digital experiences. Travel has become more than just a break from work – it's an essential source of inspiration and perspective that directly influences how I approach design and problem-solving.\n\nExposure to different visual languages is perhaps the most obvious benefit. Each culture has its own aesthetic sensibilities, color preferences, and design traditions. Walking through the vibrant markets of Marrakech gave me a new appreciation for bold color combinations I might have previously avoided. The minimalist elegance of Japanese architecture and design has influenced my approach to user interfaces, emphasizing simplicity and intentional empty space.\n\nBeyond aesthetics, experiencing different cultures provides insights into varied ways of thinking and solving problems. I remember being fascinated by the ingenious water management systems in ancient sites in Peru, which reminded me that there are often multiple solutions to a challenge, and sometimes the most elegant approach isn't the most obvious one.\n\nTravel also forces you to navigate unfamiliar environments, often in languages you don't speak. This experience of being a user struggling with unfamiliar systems has made me more empathetic in my approach to UX design. I'm now much more conscious of creating interfaces that are intuitive and accessible to people from diverse backgrounds and ability levels.\n\nThe logistical challenges of travel – missed connections, language barriers, unexpected closures – have improved my adaptability and resilience. These qualities transfer directly to development work, where plans frequently change and solutions often come through iteration and adaptation rather than perfect execution of the initial idea.\n\nPerhaps most importantly, travel provides a mental reset. Removing myself from familiar surroundings and routines creates space for new connections and ideas to form. Some of my best solutions to stubborn coding problems have come while hiking in the mountains or wandering through a new city, when my mind is relaxed but engaged with novel stimuli.\n\nI've also found that travel helps combat the tunnel vision that can develop when working intensely in tech. It's easy to get caught up in industry trends and lose sight of the broader context in which our work exists. Experiencing different ways of living reminds me that technology should serve human needs and enhance lives, not just advance for its own sake.\n\nOf course, not every trip needs to be an international adventure to provide these benefits. Even exploring a new neighborhood or taking a weekend trip to a nearby town can offer fresh perspectives. The key is stepping outside familiar environments and remaining open to new influences.\n\nAs remote work becomes increasingly common in our industry, I'm excited about the possibilities for integrating travel more deeply with professional life. The ability to work from different locations around the world offers unprecedented opportunities for cross-cultural inspiration and growth – both personally and creatively.",
     date: "November 14, 2023",
-    author: "Your Name",
+    author: "Nguyen Manh Quan",
     image: "https://images.unsplash.com/photo-1503220317375-aaad61436b1b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
     tags: ["Travel", "Creativity", "Design Inspiration"]
   },
@@ -248,9 +353,9 @@ export const blogPosts = [
   },
   {
     id: 6,
-    title: "The Unexpected Benefits of Contributing to Open Source",
-    excerpt: "How my involvement in open source projects has shaped my career and connected me with a global community.",
-    content: "My journey into open source began almost by accident. Four years ago, I encountered a bug in a library I was using for a project. After hours of frustration, I decided to look at the source code myself. I found the issue, fixed it locally, and then thought, \"Why not share this fix with others?\" That small pull request – just a few lines of code – was the beginning of what would become one of the most rewarding aspects of my career.\n\nInitially, my motivations for contributing to open source were primarily technical. I wanted to improve the tools I was using, learn from more experienced developers, and build my portfolio with public work that potential employers could see. These benefits certainly materialized – my technical skills grew rapidly as I received feedback from maintainers, and my open source contributions definitely helped me land jobs.\n\nWhat I didn't anticipate were the non-technical benefits that would prove equally valuable. The first surprise was the sense of community. Through contributing to various projects, I connected with developers around the world – people I would never have met otherwise. These connections have led to friendships, mentorship relationships, and even professional opportunities.\n\nContributing to open source also gave me experience with different development workflows and collaboration styles. Each project has its own culture, communication norms, and processes. Navigating these differences has made me more adaptable and improved my ability to onboard quickly in new work environments.\n\nPerhaps most unexpectedly, open source contribution significantly improved my communication skills. When proposing changes to a project used by thousands of developers, you need to clearly articulate the problem, your solution, and the rationale behind your approach. This practice in written technical communication has been invaluable throughout my career.\n\nAs I became more involved in the open source community, I also gained a deeper appreciation for the collaborative nature of software development. Modern applications are built on layers of dependencies – open source projects that themselves rely on other open source projects. Contributing made me feel connected to this broader ecosystem and gave me a sense of giving back to the community that provides so many free tools.\n\nFor those considering getting involved in open source, I'd offer a few pieces of advice based on my experience:\n\nStart small: You don't need to make major contributions to have an impact. Documentation improvements, bug fixes, and test additions are all valuable and often more accessible entry points.\n\nContribute to projects you actually use: Your experience as a user gives you valuable perspective, and you'll be more motivated to improve tools that directly benefit your work.\n\nDon't be intimidated: Even experienced developers were beginners once. Most maintainers appreciate good-faith contributions and are willing to provide guidance.\n\nBe patient and persistent: Your first pull request might not be accepted, or might require significant revisions. This is normal and part of the learning process.\n\nOpen source contribution isn't just for those with abundant free time or those working at companies with dedicated open source policies (though those certainly help). Even occasional, small contributions can provide significant benefits and connect you to a global community of developers working together to build the digital infrastructure we all rely on.\n\nWhat began for me as a simple bug fix has evolved into a fundamental part of how I view my role in the tech community – not just as a consumer of tools and libraries, but as an active participant in their creation and improvement.",
+    title: "My Journey to Build a Healthy Body, Strong Mind, and Optimistic Soul ?",
+    excerpt: "I will share actionable strategies for building physical health, mental resilience, and emotional wellness. Ultimately, we need to know that wellness is an ongoing journey of self-care, not a rigid destination.",
+    content: datablog6 ,
     date: "March 5, 2024",
     author: "Your Name",
     image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
