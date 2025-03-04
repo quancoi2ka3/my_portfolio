@@ -23,7 +23,7 @@ Dự án được triển khai tự động với Netlify, đảm bảo hiệu s
 
 ## 🔗 Liên Kết  
 
-- **Live Demo**: [https://67c687050f98dc81085c70ce--manhquanportfolio.netlify.app/]  
+- **Live Demo**: [manhquanportfolio.netlify.app/]  
 
 ## 📦 Cài Đặt  
 

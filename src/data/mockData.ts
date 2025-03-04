@@ -17,7 +17,7 @@ export const personalInfo = {
 export const experiences = [
   {
     id: 1,
-    company: "Company Name 1",
+    company: "OLM Education",
     position: "Senior Front-end Developer",
     startDate: "Jan 2022",
     endDate: "Present",
